@@ -29,4 +29,4 @@ Python • SQL • TypeScript • JavaScript • Git • GitHub
 
 ## 📫 Contato
 
-/viniprado2 • viniciusprado99@gmail.com
+https://www.linkedin.com/in/viniprado2/ • viniciusprado99@gmail.com
